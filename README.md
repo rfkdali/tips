@@ -1,5 +1,3 @@
-== tips
-
 ### Refreshing RSPEC every 2sec
 
 * add spec_helper.rb file with this script:
