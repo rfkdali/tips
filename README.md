@@ -11,3 +11,6 @@ end```
 
 * Run this command in your shell:
 ```watch --color bash rspec```
+
+### When pushing your DB on prod environnement 
+* use ```rake db:schema:load``` instead of rake db:migrate  
