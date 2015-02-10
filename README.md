@@ -17,8 +17,11 @@ end```
 
 
 ### When you want to drop your db and receive this message :
-```PG::ObjectInUse: ERROR:  database "filrouge_696" is being accessed by other users```
-
+```PG::ObjectInUse: ERROR:  database "your_database" is being accessed by other users```
 
 In your psql console, type this :
 ```SELECT pid, pg_terminate_backend(pid) as terminated FROM pg_stat_activity WHERE pid <> pg_backend_pid();```
+
+### To access to your database console with rails command line
+``` rails dbconsole ```
+
