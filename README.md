@@ -12,6 +12,8 @@ end```
 * Run this command in your shell:
 ```watch --color bash rspec```
 
+## Database
+
 ### When pushing your DB on prod environnement 
 * use ```rake db:schema:load``` instead of rake db:migrate  
 
@@ -24,4 +26,8 @@ In your psql console, type this :
 
 ### To access to your database console with rails command line
 ``` rails dbconsole ```
+
+### To import file into your db after a pg_dump (export)
+```psql -h IP_ADDRESS -p 5432 -U app -d DATABASE_NAME -f your_file_name.sql```
+
 
