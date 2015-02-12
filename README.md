@@ -5,8 +5,8 @@
 * [Database](#database)
 	* [Load db structure from your schema](#load-db structure-from-your-schema)
 	* [When you want to drop your db and receive this message](#when-you-want-to-drop-your-db-and-receive-this-message)
-	* [To access to your database console with rails command line](to-access-to-your-database-console-with rails-command-line)
-	* [To import file into your db after a pg_dump](to-import-file-into-your-db-after-a-pg_dump)
+	* [To access to your database console with rails command line](#to-access-to-your-database-console-with rails-command-line)
+	* [To import file into your db after a pg_dump](#to-import-file-into-your-db-after-a-pg_dump)
 
 ### Refreshing RSPEC every 2sec
 
