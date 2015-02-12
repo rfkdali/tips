@@ -6,8 +6,8 @@
 	* [Load db structure from your schema](#load-db structure-from-your-schema)
 	* [When you want to drop your db and receive this message](#when-you-want-to-drop-your-db-and-receive-this-message)
 	* [To access to your database console with rails command line](#to-access-to-your-database-console-with rails-command-line)
-	* [To import file into your db after a pg_dump](#to-import-file-into-your-db-after-a-pg_dump)
-
+	* [To import file into your db](#to-import-file-into-your-db)
+	
 ### Refreshing RSPEC every 2sec
 
 * add spec_helper.rb file with this script:
@@ -37,7 +37,5 @@ In your psql console, type this :
 ### To access to your database console with rails command line
 ``` rails dbconsole ```
 
-### To import file into your db after a pg_dump
+### To import file into your db
 ```psql -h IP_ADDRESS -p 5432 -U app -d DATABASE_NAME -f your_file_name.sql```
-
-
