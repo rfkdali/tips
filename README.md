@@ -1,10 +1,10 @@
 ##Table of contents
 
-* [Rspec](#Rspec)
-	* [Refreshing RSPEC every 2sec](#Refreshing RSPEC every 2sec)
-* [Database](#Database)
-	* [When pushing your DB on prod environnement](#When pushing your DB on prod environnement)
-	* [When you want to drop your db and receive this message](#When you want to drop your db and receive this message)
+* [Rspec](#rspec)
+	* [Refreshing RSPEC every 2sec](#refreshing RSPEC every 2sec)
+* [Database](#database)
+	* [When pushing your DB on prod environnement](#when pushing your DB on prod environnement)
+	* [When you want to drop your db and receive this message](#when you want to drop your db and receive this message)
 
 
 ##Rspec
