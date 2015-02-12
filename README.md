@@ -1,3 +1,14 @@
+<!-- MarkdownTOC -->
+
+* [Rspec](#Rspec)
+	* [Refreshing RSPEC every 2sec](#Refreshing RSPEC every 2sec)
+* [Database](#Database)
+	* [When pushing your DB on prod environnement](#When pushing your DB on prod environnement)
+	* [When you want to drop your db and receive this message](#When you want to drop your db and receive this message)
+
+<!-- END MarkdownTOC -->
+
+##Rspec
 ### Refreshing RSPEC every 2sec
 
 * add spec_helper.rb file with this script:
