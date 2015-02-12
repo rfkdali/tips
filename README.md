@@ -28,7 +28,7 @@ end```
 * use ```rake db:schema:load``` instead of rake db:migrate  
 
 
-### When you want to drop your db and receive this message :
+### When you want to drop your db and receive this message
 ```PG::ObjectInUse: ERROR:  database "your_database" is being accessed by other users```
 
 In your psql console, type this :
