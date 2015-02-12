@@ -1,4 +1,4 @@
-<!-- MarkdownTOC -->
+##Table of contents
 
 * [Rspec](#Rspec)
 	* [Refreshing RSPEC every 2sec](#Refreshing RSPEC every 2sec)
@@ -6,7 +6,6 @@
 	* [When pushing your DB on prod environnement](#When pushing your DB on prod environnement)
 	* [When you want to drop your db and receive this message](#When you want to drop your db and receive this message)
 
-<!-- END MarkdownTOC -->
 
 ##Rspec
 ### Refreshing RSPEC every 2sec
