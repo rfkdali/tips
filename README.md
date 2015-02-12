@@ -3,7 +3,7 @@
 * [Rspec](#rspec)
 	* [Refreshing RSPEC every 2sec](#refreshing-rspec-every-2sec)
 * [Database](#database)
-	* [Load db structure from your schema](#load-db structure-from-your-schema)
+	* [Load db structure from your schema](#load-db-structure-from-your-schema)
 	* [When you want to drop your db and receive this message](#when-you-want-to-drop-your-db-and-receive-this-message)
 	* [To access to your database console with rails command line](#to-access-to-your-database-console-with-rails-command-line)
 	* [To import file into your db](#to-import-file-into-your-db)
