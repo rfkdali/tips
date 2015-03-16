@@ -39,3 +39,7 @@ In your psql console, type this :
 
 ### To import file into your db
 ```psql -h IP_ADDRESS -p 5432 -U app -d DATABASE_NAME -f your_file_name.sql```
+
+### CSS Tips
+#### Positioning
+[http://learnlayout.com](http://learnlayout.com)
